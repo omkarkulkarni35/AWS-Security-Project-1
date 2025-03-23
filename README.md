@@ -1,1 +1,1 @@
-# AWS-Security-Project-1
+# AWS-Security-Projects
